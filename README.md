@@ -1,16 +1,50 @@
-## Hi there 👋
+# Hi, I'm Nikhitha Maramreddy 👋
 
-<!--
-**nikhithamaramreddy23/nikhithamaramreddy23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Python | SQL | Full Stack Development
 
-Here are some ideas to get you started:
+Computer Science and Engineering (IoT) graduate with training in Python, SQL, and Full Stack Development. Currently pursuing Python Full Stack with AI at 10000 Coders.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Technical Skills
+
+- Python
+- SQL
+- HTML
+- CSS
+- JavaScript
+- MySQL
+- Git & GitHub
+
+## Education
+
+B.Tech in Computer Science and Engineering (IoT)
+Visvodaya Engineering College, Kavali
+CGPA: 7.0
+
+## Project
+
+### IoT V-Secure
+
+- Developed an Arduino and NodeMCU-based vehicle safety system.
+- Implemented alcohol, fire, and intrusion detection.
+- Integrated GPS and GSM modules for emergency alerts and location tracking.
+- Used ThingSpeak IoT platform for real-time monitoring.
+
+## Certifications
+
+- Internet of Things (IoT) Offline Training – APSSDC
+- Drunk Driver & Sleep Detection with Smart Ignition Lock Based on Smart Automobile System – Pantech e Learning Pvt. Ltd.
+- Python 3 Bootcamp – Lernx
+- Machine Learning and Generative AI – Codegnan IT Solutions Pvt. Ltd.
+
+## Currently Learning
+
+- Python Full Stack Development
+- React.js
+- Django
+- REST APIs
+- AI Fundamentals
+
+## Contact
+
+- Email: nikhithamaramreddy23@gmail.com
+- LinkedIn: Add Your LinkedIn Profile Link
