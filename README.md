@@ -9,8 +9,6 @@ Computer Science and Engineering (IoT) graduate with training in Python, SQL, an
 - Python
 - SQL
 - HTML
-- CSS
-- JavaScript
 - MySQL
 - Git & GitHub
 
@@ -35,6 +33,7 @@ CGPA: 7.0
 - Drunk Driver & Sleep Detection with Smart Ignition Lock Based on Smart Automobile System – Pantech e Learning Pvt. Ltd.
 - Python 3 Bootcamp – Lernx
 - Machine Learning and Generative AI – Codegnan IT Solutions Pvt. Ltd.
+- SQL(Basic) certification-hackerrank
 
 ## Currently Learning
 
@@ -47,4 +46,4 @@ CGPA: 7.0
 ## Contact
 
 - Email: nikhithamaramreddy23@gmail.com
-- LinkedIn: Add Your LinkedIn Profile Link
+- LinkedIn: https://www.linkedin.com/in/nikhitha-maramreddy-3a8572369/
